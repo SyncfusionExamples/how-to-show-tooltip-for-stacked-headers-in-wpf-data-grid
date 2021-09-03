@@ -39,6 +39,7 @@ This example illustrates how to show tooltip for Stacked Headers in WPF DataGrid
 
 ![ToolTip for Stacked Headers](StackedHeader_ToolTip.png)
 
+KB article - [How to show tooltip for Stacked Headers in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12763/how-to-show-tooltip-for-stacked-headers-in-wpf-datagrid-sfdatagrid)
 
 ## Requirements to run the demo
 
